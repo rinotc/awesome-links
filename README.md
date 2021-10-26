@@ -7,3 +7,4 @@
 * [Slick チートシート](https://github.com/bizreach/slick-reference)
 * [実践クリーンアーキテクチャ with Java](https://nrslib.com/clean-architecture-with-java/)
 * [Services By Lifecycle](https://www.michaelnygard.com/blog/2018/01/services-by-lifecycle/)
+* [クリーンアーキテクチャ完全に理解した](https://gist.github.com/mpppk/609d592f25cab9312654b39f1b357c60)
