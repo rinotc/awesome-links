@@ -1,4 +1,4 @@
-# リンク集
+# Webリンク集
 
 * [Akkaによるリアクティブシステム開発ガイド](https://zenn.dev/j5ik2o/books/akka-book-e8771e80b20c32ed1840)
 * [がくぞーさん slides](https://gakuzzzz.github.io/slides/)
@@ -11,3 +11,7 @@
 * [具体的な実装コードからEvent Sorucingを理解する|かとじゅんの技術日誌](https://blog.j5ik2o.me/entry/2020/09/16/162037#fn-28f6994d)
 * [SQLアンチパターン 幻の第26章「とりあえず削除フラグ」](https://www.slideshare.net/t_wada/ronsakucasual)
 * [技術選定の審美眼](https://speakerdeck.com/twada/understanding-the-spiral-of-technologies)
+
+# 動画とか
+
+* [クソコード動画「共通化の罠」](https://twitter.com/MinoDriven/status/1127539251761909760?s=20)
