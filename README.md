@@ -12,6 +12,7 @@
 * [SQLアンチパターン 幻の第26章「とりあえず削除フラグ」](https://www.slideshare.net/t_wada/ronsakucasual)
 * [技術選定の審美眼](https://speakerdeck.com/twada/understanding-the-spiral-of-technologies)
 * [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html)
+* [ドワンゴ 新卒向けScala研修資料](https://scala-text.github.io/scala_text/)
 
 # 動画とか
 
