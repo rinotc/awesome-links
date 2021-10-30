@@ -13,7 +13,7 @@
 * [技術選定の審美眼](https://speakerdeck.com/twada/understanding-the-spiral-of-technologies)
 * [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html)
 * [ドワンゴ 新卒向けScala研修資料](https://scala-text.github.io/scala_text/)
-* [Domain Language~Tackling Complexity in the Heart of Software~](https://www.domainlanguage.com/)
+* [Domain Language-Tackling Complexity in the Heart of Software-](https://www.domainlanguage.com/)
 
 # 動画とか
 
