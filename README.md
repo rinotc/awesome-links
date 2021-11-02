@@ -14,6 +14,9 @@
 * [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html)
 * [ドワンゴ 新卒向けScala研修資料](https://scala-text.github.io/scala_text/)
 * [Domain Language-Tackling Complexity in the Heart of Software-](https://www.domainlanguage.com/)
+* [実践ScalaでDDD](https://speakerdeck.com/crossroad0201/scala-on-ddd)
+* [Scala福岡 2019で「実践 Clean Architecture」を発表させていただきました | Chatwork Creator's Note](https://creators-note.chatwork.com/entry/2019/01/22/080151)
+* [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 
 # 動画とか
 
