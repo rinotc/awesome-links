@@ -18,6 +18,7 @@
 * [実践ScalaでDDD](https://speakerdeck.com/crossroad0201/scala-on-ddd)
 * [Scala福岡 2019で「実践 Clean Architecture」を発表させていただきました | Chatwork Creator's Note](https://creators-note.chatwork.com/entry/2019/01/22/080151)
 * [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
+* [Chapter 9. Objects, Case Classes, and Traits | O'REILLY Learning Scala]
 
 # 動画とか
 
