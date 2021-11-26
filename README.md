@@ -19,6 +19,7 @@
 * [Scala福岡 2019で「実践 Clean Architecture」を発表させていただきました | Chatwork Creator's Note](https://creators-note.chatwork.com/entry/2019/01/22/080151)
 * [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 * [Chapter 9. Objects, Case Classes, and Traits | O'REILLY Learning Scala](https://www.oreilly.com/library/view/learning-scala/9781449368814/ch09.html)
+* [ドメイン駆動設計　分析しながら設計する 増田 亨 | DDD, RDRA, ICONIXの関係が書かれてる](https://www.slideshare.net/masuda220/ss-74962182)
 
 # 動画とか
 
