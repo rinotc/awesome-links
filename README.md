@@ -22,6 +22,8 @@
 * [ドメイン駆動設計　分析しながら設計する 増田 亨 | DDD, RDRA, ICONIXの関係が書かれてる](https://www.slideshare.net/masuda220/ss-74962182)
 * [現在時刻が関わるユニットテストから、テスト容易性設計を学ぶ | t-wadaのブログ](https://t-wada.hatenablog.jp/entry/design-for-testability)
 * [xUnit Patterns.com](http://xunitpatterns.com/index.html)
+* [現在時刻が関わるユニットテストから、テスト容易性設計を学ぶ](https://t-wada.hatenablog.jp/entry/design-for-testability)
+
 # 動画とか
 
 * [クソコード動画「共通化の罠」](https://twitter.com/MinoDriven/status/1127539251761909760?s=20)
