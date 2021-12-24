@@ -22,6 +22,8 @@
 * [ドメイン駆動設計　分析しながら設計する 増田 亨 | DDD, RDRA, ICONIXの関係が書かれてる](https://www.slideshare.net/masuda220/ss-74962182)
 * [現在時刻が関わるユニットテストから、テスト容易性設計を学ぶ | t-wadaのブログ](https://t-wada.hatenablog.jp/entry/design-for-testability)
 * [xUnit Patterns.com](http://xunitpatterns.com/index.html)
+* [ドメインオブジェクトの責務について](https://qiita.com/j5ik2o/items/a64007c6d7a89ec2e086)
+* [Error, Defect, Falt Failureの定義と解釈](https://zenn.dev/j5ik2o/articles/6c4dbab802c9701fd878)
 
 # 動画とか
 
