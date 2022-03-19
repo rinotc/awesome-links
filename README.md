@@ -26,6 +26,7 @@
 * [Error, Defect, Falt Failureの定義と解釈](https://zenn.dev/j5ik2o/articles/6c4dbab802c9701fd878)
 * [アプリケーションの設計にEIPの知識が役に立つよ！](https://speakerdeck.com/masuda220/apurikesiyonfalseshe-ji-nieipfalsezhi-shi-gayi-nili-tuyo)
 * [Java EE 勉強会 EIP](https://www.wikihouse.com/withoutEJB/index.php?EIP)
+* [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/)
 
 # 動画とか
 
