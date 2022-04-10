@@ -56,6 +56,7 @@
 
 ## Angular
 
+* [Angular after tutorial](https://zenn.dev/lacolaco/books/angular-after-tutorial)
 * [AngularにおけるstrictPropertyInitializationのベストプラクティス](https://blog.lacolaco.net/2018/06/angular-strict-property-initialization-best-practice/)
 
 # その他
