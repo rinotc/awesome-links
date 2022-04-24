@@ -63,6 +63,7 @@
 ## TypeScript
 
 * [TypeScriptでの値オブジェクトとフロントエンド・バリデーション](https://gist.github.com/okunokentaro/dedacc8f57c2c35746e2aab8032864ee)
+* [Typescript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/)
 
 # その他
 
