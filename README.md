@@ -60,6 +60,10 @@
 * [Angular after tutorial](https://zenn.dev/lacolaco/books/angular-after-tutorial)
 * [AngularにおけるstrictPropertyInitializationのベストプラクティス](https://blog.lacolaco.net/2018/06/angular-strict-property-initialization-best-practice/)
 
+## TypeScript
+
+* [TypeScriptでの値オブジェクトとフロントエンド・バリデーション](https://gist.github.com/okunokentaro/dedacc8f57c2c35746e2aab8032864ee)
+
 # その他
 
 * [クソコード動画「共通化の罠」](https://twitter.com/MinoDriven/status/1127539251761909760?s=20)
