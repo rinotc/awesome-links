@@ -12,6 +12,7 @@
 * [Services By Lifecycle](https://www.michaelnygard.com/blog/2018/01/services-by-lifecycle/)
 * [Error, Defect, Falt Failureの定義と解釈](https://zenn.dev/j5ik2o/articles/6c4dbab802c9701fd878)
 * [質とスピード ソフトウェア開発の典型的な誤解を解く](https://speakerdeck.com/twada/quality-and-speed-2020-autumn-edition)
+* [集約の設計と実装](https://speakerdeck.com/j5ik2o/ji-yue-falseshe-ji-toshi-zhuang)
 
 ### Clean Architecture
 
