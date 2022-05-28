@@ -35,7 +35,8 @@
 * [ドワンゴ 新卒向けScala研修資料](https://scala-text.github.io/scala_text/)
 * [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/)
 * [Chapter 9. Objects, Case Classes, and Traits | O'REILLY Learning Scala](https://www.oreilly.com/library/view/learning-scala/9781449368814/ch09.html)
-* 
+* [Scalaで構造的部分型](https://yuwki0131.github.io/posts-output/2018-04-20-scala-types/#%E6%A7%8B%E9%80%A0%E7%9A%84%E9%83%A8%E5%88%86%E5%9E%8B(structural_subtyping))
+
 ### AKka
 
 * [Akkaによるリアクティブシステム開発ガイド](https://zenn.dev/j5ik2o/books/akka-book-e8771e80b20c32ed1840)
