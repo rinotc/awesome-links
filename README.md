@@ -49,6 +49,9 @@
 
 * [SQLアンチパターン 幻の第26章「とりあえず削除フラグ」](https://www.slideshare.net/t_wada/ronsakucasual)
 
+# 認証・認可
+
+* [ユーザー認証フローのまとめ](https://blog.fujimisakari.com/user_authentication_flow/)
 
 # テスト
 
