@@ -76,7 +76,7 @@
 
 # JVM
 
-* [](https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be#)
+* [JavaのGCの仕組みを整理する](https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be)
 
 # その他
 
