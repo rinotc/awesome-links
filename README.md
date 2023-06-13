@@ -74,6 +74,10 @@
 
 * [The documentation system](https://documentation.divio.com/)
 
+# JVM
+
+* [](https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be#)
+
 # その他
 
 * [クソコード動画「共通化の罠」](https://twitter.com/MinoDriven/status/1127539251761909760?s=20)
