@@ -1,3 +1,7 @@
+# プロジェクト
+
+* [現代システム開発概論2024 川島義隆](https://speakerdeck.com/recruitengineers/xian-dai-de-sisutemukai-fa-gai-lun-2024)
+
 # Scala, 設計 etc...
 
 ## 設計
