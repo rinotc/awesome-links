@@ -1,3 +1,7 @@
+# AI
+
+- [2025/07版 Takuto Wada AI時代のソフトウェア開発を考える](https://speakerdeck.com/twada/agentic-software-engineering-findy-2025-07-edition)
+
 # プロジェクト
 
 * [現代システム開発概論2024 川島義隆](https://speakerdeck.com/recruitengineers/xian-dai-de-sisutemukai-fa-gai-lun-2024)
