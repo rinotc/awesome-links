@@ -89,3 +89,4 @@
 # その他
 
 * [クソコード動画「共通化の罠」](https://twitter.com/MinoDriven/status/1127539251761909760?s=20)
+* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
